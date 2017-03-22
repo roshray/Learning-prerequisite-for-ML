@@ -8,3 +8,4 @@
 # Phase-2 Pandas
        exercise-1 Create Data ,Prepare Data,Analysis of Data
        exercise-2 Read Table,CSV file,Rename Columns,Remove Columns,Sort,Filter..
+       exercise-3 String,Missing value,Explore Panda Series...
