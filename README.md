@@ -1,5 +1,5 @@
 # Learning-prerequisite-for-ML
-# Phase-0 Basic Funtions Implementation
+# Phase-0 Overview of Pandas,Numpy, Matplotlib ..
 # Phase-1 Python Classes
         *String
         *List
