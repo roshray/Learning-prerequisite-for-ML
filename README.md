@@ -10,3 +10,4 @@
        exercise-2 Read Table,CSV file,Rename Columns,Remove Columns,Sort,Filter..
        exercise-3 String,Missing value,Explore Panda Series...
        exercise-4 Index,Selection and Alignment
+       exercise-5 Apply method,lambda and Date and Time
