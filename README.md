@@ -9,5 +9,5 @@
        exercise-1 Create Data ,Prepare Data,Analysis of Data
        exercise-2 Read Table,CSV file,Rename Columns,Remove Columns,Sort,Filter..
        exercise-3 String,Missing value,Explore Panda Series...
-       exercise-4 Index,Selection and Alignment
+       exercise-4 Index-Identification ,Selection and Alignment
        exercise-5 Apply method,lambda and Date and Time
