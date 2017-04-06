@@ -12,4 +12,4 @@
                  Exercise-4 Index-Identification ,Selection and Alignment
                  Exercise-5 Apply method,lambda and Date and Time
 # Phase-3 Scikit-Learn
-                     Exercise-1
+                     Exercise-1 Decision Tree
